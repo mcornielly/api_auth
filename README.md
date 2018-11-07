@@ -13,7 +13,7 @@ Requirements
 ```
 $ composer global require laravel/installer
 ```
-- Make sure you have node.js installed
+- Make sure you have node.js installed (https://nodejs.org/es/download/)
 ```
 cd/to/patch/
 $npm install
@@ -34,7 +34,7 @@ Execute the command:
 ```
 $ php artisan migrate
 ```
-Run the server
+Run the server:
 ```
 $php artisan serve
 ``` 
