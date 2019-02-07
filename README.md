@@ -5,7 +5,8 @@ Requirements
 -------------------------
 - Make sure you have PHP v7.1 installed
 - Make sure you have composer installed (https://getcomposer.org/)
-- Make sure you have mysql database administrator installed (server of preference) 
+- Make sure you have mysql database administrator installed (server of preference)
+- Docker Install
 
 - Make sure you have Laravel 5.7 installed (https://laravel.com/docs/master/installation)
 ```
